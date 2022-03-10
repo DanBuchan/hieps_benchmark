@@ -2,10 +2,11 @@
 
 1. Ran CASP13 targets vs unrief90 (feb 2022) to get lists of putative
 homologues, capped at 500 results
-2. parse_blast_data.py - parse the uniref blasts in to a csv file (uniref_results_summary.csv)
-3. parse_pfam_blast.py - parse the pfamA target blasts so we know which casp13 target is which (target_membership.csv)
-4. calculate_accuracy.py - work out the accuracy in finding H-family members given blast
-   cut offs.
+2. parse_blast_data.py - parse the uniref blasts in to a csv file (uniref_results_summary.csv) - blast run to collate 5000 max descriptions
+3. parse_pfam_data.py - parse the pfamA target blasts so we know which casp13 target is which (target_membership.csv)
+4. calculate_accuracy.py - work out the accuracy in finding H-family members given blast cut offs on evalue or percentage identity
+  evalue_performance.csv
+  identity_performance.csv
 
 
 ## OBSOLETE

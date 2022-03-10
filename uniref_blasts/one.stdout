@@ -1,68 +1,68 @@
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O00206.fa -out O00206.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > O00206.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O00206.fa -out O00206.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > O00206.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O14786.fa -out O14786.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > O14786.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O14786.fa -out O14786.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > O14786.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O15393.fa -out O15393.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > O15393.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O15393.fa -out O15393.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > O15393.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O60674.fa -out O60674.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > O60674.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O60674.fa -out O60674.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > O60674.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O95786.fa -out O95786.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > O95786.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query O95786.fa -out O95786.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > O95786.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P00533.fa -out P00533.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P00533.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P00533.fa -out P00533.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P00533.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P00734.fa -out P00734.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P00734.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P00734.fa -out P00734.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P00734.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P00747.fa -out P00747.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P00747.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P00747.fa -out P00747.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P00747.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P00797.fa -out P00797.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P00797.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P00797.fa -out P00797.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P00797.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01008.fa -out P01008.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01008.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01008.fa -out P01008.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01008.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01019.fa -out P01019.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01019.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01019.fa -out P01019.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01019.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01042.fa -out P01042.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01042.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01042.fa -out P01042.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01042.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01375.fa -out P01375.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01375.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01375.fa -out P01375.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01375.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01562.fa -out P01562.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01562.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01562.fa -out P01562.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01562.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01563.fa -out P01563.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01563.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01563.fa -out P01563.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01563.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01574.fa -out P01574.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01574.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01574.fa -out P01574.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01574.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01579.fa -out P01579.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01579.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01579.fa -out P01579.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01579.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01583.fa -out P01583.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01583.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01583.fa -out P01583.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01583.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01584.fa -out P01584.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01584.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01584.fa -out P01584.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01584.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01589.fa -out P01589.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01589.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01589.fa -out P01589.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01589.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01730.fa -out P01730.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01730.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01730.fa -out P01730.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01730.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01732.fa -out P01732.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P01732.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P01732.fa -out P01732.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P01732.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02144.fa -out P02144.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P02144.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02144.fa -out P02144.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P02144.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02675.fa -out P02675.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P02675.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02675.fa -out P02675.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P02675.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02741.fa -out P02741.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P02741.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02741.fa -out P02741.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P02741.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02768.fa -out P02768.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P02768.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02768.fa -out P02768.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P02768.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02778.fa -out P02778.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P02778.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P02778.fa -out P02778.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P02778.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P04141.fa -out P04141.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P04141.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P04141.fa -out P04141.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P04141.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P04439.fa -out P04439.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P04439.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P04439.fa -out P04439.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P04439.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P05112.fa -out P05112.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P05112.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P05112.fa -out P05112.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P05112.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P05121.fa -out P05121.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P05121.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P05121.fa -out P05121.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P05121.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P05187.fa -out P05187.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P05187.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P05187.fa -out P05187.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P05187.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P05231.fa -out P05231.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P05231.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P05231.fa -out P05231.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P05231.stdout
 SPLITTING
-/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P07711.fa -out P07711.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 > P07711.stdout
+/home/dbuchan/Applications/ncbi-blast-2.10.0+/bin/psiblast -query P07711.fa -out P07711.bls -db /scratch/Data/uniref/uniref90.fasta -outfmt 5 -max_target_seqs 5000 -num_iterations 3 > P07711.stdout
 SPLITTING
